@@ -1,5 +1,7 @@
 # Data Science Projects
 
+## Generating Synthetic Time Series with Generative AI [Current Engagement]
+I'm working on an innovative approach to generate highly utilizable synthtic timeseries from a given dataset.
 
 ## [Emotion Classification on Tweets](https://github.com/mirwisek/emotion-classification-twitter)
 This project compares the performance of LLMs (DistilBERT and BERTweet) to conventional models such as CNN in two tasks:
