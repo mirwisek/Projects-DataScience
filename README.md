@@ -1,7 +1,12 @@
 # Data Science Projects
 
-## Generating Synthetic Time Series with Generative AI [Current Engagement]
-I'm working on an innovative approach to generate highly utilizable synthtic timeseries from a given dataset. 
+## Representing time series as images for enhanced model performance [Current Engagement]
+During an internship I worked on research topic "Representing time series as images" for potential future use cases in point forcasting, anamoly detection and Generative AI.
+I've also had the opportunity to contribute to the following projects:
+- https://github.com/FlorentF9/DESOM
+- https://github.com/FlorentF9/SOMperf
+
+**I'm currently submitting my work for a publication on NeurIPS**
 
 ## [Emotion Classification on Tweets](https://github.com/mirwisek/emotion-classification-twitter)
 This project compares the performance of LLMs (DistilBERT and BERTweet) to conventional models such as CNN in two tasks:
